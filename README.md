@@ -1,5 +1,5 @@
-# asl_ios
-# iOS Application to Translate the American Sign Language
+# asl_ios with React
+# iOS React Application to Translate the American Sign Language
 ## by India Daniel
 
 ### Context
@@ -19,6 +19,9 @@ Once a user is done signing the word/phrase, they can click a ”text-to- speech
 5. Create an algorithm that maps user input to it’s closest match in the MDB and returns that match.
 6. Addoutputfeaturessuchasthe”outputwindow”andthe”text-to-speech” button.
 7. If there’s time: Add an ”input text” window to the app in order for non- ASL-using user’s to communicate back to the ASL user.
+
+### Results
+This forumlation of my application was not a success. However, if you would like to see the working ASL Translator app, it is available here through my github: link.
 
 
 ### Usage
