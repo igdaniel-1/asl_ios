@@ -2,6 +2,9 @@
 # iOS React Application to Translate the American Sign Language
 ## by India Daniel
 
+### Note
+This version of the translator is non-functional. For the working version, see my other repository: https://github.com/igdaniel-1/ASL_Translate_Swift
+
 ### Context
 Learning and Translating American Sign Language poses a new challenge that traditional text-based translators have yet to encounter: a 3-dimensional form of input. Those who use American Sign Language, or ASL, to communicate rely on a combination of hand shapes and hand movements. Current transla- tion services, such as print dictionaries or Google Translate, aren’t equipped to handle these extra parameters.
 With this in mind, I propose a new format of translation designed specifically for ASL users. This translator would take input through an infrared camera in order to capture the relative positions of the user’s hands to the camera. For output, the user should be able to translate their hand signs to both text and speech. By incorporating a screen where the user’s signs will appear in text format, and a ”text-to-speech” option, ASL users will be able to broaden their communication horizons.
