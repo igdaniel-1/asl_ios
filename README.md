@@ -24,7 +24,7 @@ Once a user is done signing the word/phrase, they can click a ”text-to- speech
 7. If there’s time: Add an ”input text” window to the app in order for non- ASL-using user’s to communicate back to the ASL user.
 
 ### Results
-This forumlation of my application was not a success. However, if you would like to see the working ASL Translator app, it is available here through my github: https://github.com/igdaniel-1/ASL_Translate_Swift.
+This formulation of my application was not a success. However, if you would like to see the working ASL Translator app, it is available here through my github: https://github.com/igdaniel-1/ASL_Translate_Swift.
 
 
 ### Usage
